@@ -130,7 +130,7 @@ skills:
 
     toolset:
       - name: Verilog
-        level: 50% 
+        level: 50%
 
       - name: C-programming
         level: 70%
